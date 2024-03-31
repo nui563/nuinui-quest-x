@@ -24,16 +24,16 @@ window.onload = () => {
     ]
 
     const text = [
-        'YOU HAVE WON A TEMPORARY ',
-        'VICTORY, PEKO! YOUR      ',
-        'CONSTRUCTION COMPANY MAY ',
-        'HAVE WON THIS BATTLE BUT ',
+        'YOU REALLY THOUGHT IT    ',
+        'WOULD BE THAT EASY, DID  ',
+        'YOU PEKO? SHIRAKEN MAY   ',
+        'HAVE WON LAST TIME, BUT  ',
         'THE WAR IS FAR FROM OVER.',
         'IN TIME I WILL FIND OTHER',
         'MEMBERS STRONG ENOUGH TO ',
         'DO MY BIDDING AND I WILL ',
         'RETURN. I SHALL SEE YOU  ',
-        'SOON, PEKO. VERY SOON... ',
+        'SOON PEKO. VERY SOON...  ',
     ];
 
     //60fps
