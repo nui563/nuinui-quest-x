@@ -33,7 +33,7 @@ window.onload = () => {
         'MEMBERS STRONG ENOUGH TO ',
         'DO MY BIDDING AND I WILL ',
         'RETURN. I SHALL SEE YOU  ',
-        'SOON PEKO. VERY SOON...  ',
+        'SOON PEKO, VERY SOON...  ',
     ];
 
     //60fps
