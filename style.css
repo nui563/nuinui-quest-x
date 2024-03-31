@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    background-color: #000;
+    display: flex;
+}
+
+canvas {
+    margin: auto;
+    image-rendering: pixelated;
+}
